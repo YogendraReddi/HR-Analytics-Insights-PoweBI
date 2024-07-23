@@ -24,3 +24,7 @@ EDA involves exploring the HR Analytics Data to answer key questions such as:
 1. What is the Overall Presence Percentage of Employees?
 2. Which month's attendance percentage is more and which month's percentage is less and why?
 3. Which month of sick leave is taking more?
+
+## Contact me
+[Gmail](myselfyogendra.3@gmail.com)  [LinkedIn](www.linkedin.com/in/yogendramummadi)
+
